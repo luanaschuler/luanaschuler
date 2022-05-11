@@ -20,7 +20,7 @@
   <img align="center" alt="Luana-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Luana-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://s1.ezgif.com/save/ezgif-1-308a504c88.gif">
 </div>
   
   ##
