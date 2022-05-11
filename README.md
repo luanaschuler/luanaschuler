@@ -2,7 +2,7 @@
 
 - Currently working as a Frontend Developer
 - Trying to learn Typescript
-- Visiting nowadays the Backend la-la-land
+- Trying to play with the Backend la-la-land
 
 <div align="space-between">
   <a href="https://github.com/luanaschuler">
