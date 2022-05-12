@@ -1,6 +1,6 @@
-## Hey there! I'm Luana Caroline and I'm a frontend developer intern!
+## Hi there! I'm Luana Caroline and I'm a frontend developer intern!
 
-- Currently working as a Frontend Developer
+- Currently working with Frontend projects
 - Trying to learn Typescript
 - Trying to play with the Backend la-la-land
 
